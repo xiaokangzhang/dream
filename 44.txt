@@ -1,0 +1,4 @@
+4444444
+test git add -p
+test git add -p test 2
+test git add -p 3
