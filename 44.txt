@@ -1,0 +1,6 @@
+4444444
+test git add -p
+test git add -p test 2
+test git add -p 3
+test git commit --amend -m
+git commit -amend -m 2
